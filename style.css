@@ -23,6 +23,14 @@ body {
 
 }
 
+
+.nav-link:hover{
+    cursor: pointer;
+    
+    color: gray;
+    
+}
+
 .head {
     display: flex;
     justify-content: center;
